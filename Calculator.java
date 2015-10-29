@@ -1,5 +1,6 @@
+import java.util.*;
 public class Calculator{
-	public class static void main(String[] args){
-		
+	public static void main(String[] args){
+		Scanner scanner = new Scanner(System.in);
 	}
 }
